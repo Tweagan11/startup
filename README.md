@@ -1,10 +1,5 @@
 # startup
-Startup repository for my startup idea!
+Startup repository for my startup idea
+(This idea has to do with Treehouse Talks, a company I currently help run which holds events where anyone from the community can speak on a variety of topics)
 
-Hello, I am an update for this!
-
-Yet another change for a dreary world :(
-
-But Spring brings such a pleasant view and a terrible cough
-
-Cool to see what exactly you can do with forking and the repositories. Have to get pulling and pushing into my bloodstream, but I think it will eventually come!
+Imagine a website that connects all the greatest aspects of Treehouse Talks. The community, the presentations, and the events. Stay connected with the presenters themselves with our live presentation tab, either seeing the exact same presentation in front of you, or catching it live from home. Check out our merch with an easy yet secure checkout. Stay up to date with our events and recieve notifications everytime something is added or a change is made. Use our app with local companies to get deals and ideas for date night, dinners, and day trips! (Possible Future Feature) Treehouse Talks connects you with your peers, your community, and your future possibilities.
