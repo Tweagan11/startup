@@ -4,5 +4,8 @@ Startup repository for my startup idea
 
 Imagine a website that connects all the greatest aspects of Treehouse Talks. The community, the presentations, and the events. Stay connected with the presenters themselves with our live presentation tab, either seeing the exact same presentation in front of you, or catching it live from home. Check out our merch with an easy yet secure checkout. Stay up to date with our events and recieve notifications everytime something is added or a change is made. Use our app with local companies to get deals and ideas for date night, dinners, and day trips! (Possible Future Feature) Treehouse Talks connects you with your peers, your community, and your future possibilities.
 
-
+![Home Screen](https://github.com/Tweagan11/startup/blob/main/Home%20Screen.png)
+![Presentation Screen](https://github.com/Tweagan11/startup/blob/main/Presentations.png)
+![Merch Screen](https://github.com/Tweagan11/startup/blob/main/Merch%20Screen.png)
 ![https://user-images.githubusercontent.com/123520140/215215052-384494cf-23dd-4169-9305-b6e76ca924fc.png](https://github.com/Tweagan11/startup/blob/main/Checkout%20Screen.png)
+![Event Screen](https://github.com/Tweagan11/startup/blob/main/Event%20Screen.png)
