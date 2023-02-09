@@ -1,6 +1,9 @@
 # startup
+UPDATE:HTML
+  Fun stuff! Pretty straight forward when coding, VS Code Studio offers a lot of great features to code in, and just focus on structure when coding in HTML. Not a lot of variety when it comes to formatting aesthetic, but still can offer some things. Organize it with Body, main, sections, lists, navigation, footers and other simple formats to keep the page in line and understandable. Pretty straight forward though! Remember to commit!
+
 UPDATE: AMAZON WEB SERVICES
-First get an IP address, then purchase a domain name through Route 53. Some cost more others cost less, but then go to hosted zones, create a root domain linked to the IP address, and then also a wildcard with a * at the beginning.
+  First get an IP address, then purchase a domain name through Route 53. Some cost more others cost less, but then go to hosted zones, create a root      domain linked to the IP address, and then also a wildcard with a * at the beginning.
 
 Startup repository for my startup idea
 (This idea has to do with Treehouse Talks, a company I currently help run which holds events where anyone from the community can speak on a variety of topics)
